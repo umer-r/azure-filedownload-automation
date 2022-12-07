@@ -7,7 +7,7 @@
 
 ### Define variables:
 
-Prior to running the script please ensure to set the following variables accordingly in [file](AzCertConnectDownload.ps1)
+Prior to running the script please ensure to set the following variables accordingly in [File].(AzCertConnectDownload.ps1)
 
 **Connection details**
 - ***TenantID*** = [Find your azure Tenant ID](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
