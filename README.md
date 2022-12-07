@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/umer-r/azure-filedownload-automation) ![GitHub top language](https://img.shields.io/github/languages/top/umer-r/azure-filedownload-automation) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/umer-r/azure-filedownload-automation)
 
 # Azure (File Download) Automation Script
-***PowerShell Script to download a file from Azure Storage Share without opening the access prompt***
+***PowerShell Script to download a file from Azure Storage Share with Thumbprint certificate-based Authentication***
 
 ## Usage
 
