@@ -10,7 +10,7 @@
 Prior to running the script please ensure to set the following variables accordingly.
 
 **Connection details**
-- TenantID = [Find your azure Tenant ID](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+- <span style="color:yellow">TenantID</span> = [Find your azure Tenant ID](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - AppID = [Find your Azure App ID](https://forum.tufin.com/support/kc/latest/Content/Suite/10864.htm)
 - thumbprint = [Generate your App Thumbprint certificate](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code)
 
