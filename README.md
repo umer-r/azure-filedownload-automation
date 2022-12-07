@@ -7,19 +7,19 @@
 
 ### Define variables:
 
-Prior to running the script please ensure to set the following variables accordingly.
+Prior to running the script please ensure to set the following variables accordingly in [file](AzCertConnectDownload.ps1)
 
 **Connection details**
-- <span style="color:yellow">*TenantID*</span> = [Find your azure Tenant ID](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
-- AppID = [Find your Azure App ID](https://forum.tufin.com/support/kc/latest/Content/Suite/10864.htm)
-- thumbprint = [Generate your App Thumbprint certificate](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code)
+- ***TenantID*** = [Find your azure Tenant ID](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
+- ***AppID*** = [Find your Azure App ID](https://forum.tufin.com/support/kc/latest/Content/Suite/10864.htm)
+- ***thumbprint*** = [Generate your App Thumbprint certificate](https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate-in-code)
 
 **Predefined variables**
-- StorageAccountName = Your Storage Account's name where the file is stored.
-- ResourceGroupName = Your Resource Group name.
-- DestinationPath = Local path to save file on host.
-- DownloadFilePath = File path to download.
-- StorageAccountKey = [Find your Storage Account key](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal)
+- ***StorageAccountName*** = Your Storage Account's name where the file is stored.
+- ***ResourceGroupName*** = Your Resource Group name.
+- ***DestinationPath*** = Local path to save file on host.
+- ***DownloadFilePath*** = File path to download.
+- ***StorageAccountKey*** = [Find your Storage Account key](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?tabs=azure-portal)
 
 
 #### Unblock, Set execution policy and run setup.ps1:
